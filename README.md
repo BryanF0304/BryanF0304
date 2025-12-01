@@ -11,15 +11,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+I am a software developer with experience in **desktop application development** using **C# (.NET)** and **Java**. I have worked with design patterns and architectures such as **MVVM** and **MVC**, focusing on building **maintainable, scalable, and well-structured** applications.
+
+I have experience developing user interfaces with **WPF** and **JavaFX**, integrating databases using **Entity Framework** and **JDBC**, and implementing **concurrency** and **client-server communication** through **Threads** and **Sockets**. I also have hands-on experience applying **Prism** to improve modularity, navigation, and dependency injection.
+
+I am continuously learning and interested in **software architecture**, **design patterns**, and **backend development**, always aiming to write clean and efficient code.
+
 
 ## 🛠 &nbsp;Tech Stack
 
