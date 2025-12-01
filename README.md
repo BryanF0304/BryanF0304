@@ -83,7 +83,7 @@ I am continuously learning and interested in **software architecture**, **design
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.bryan.fernandez.arguedas0304@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:bryan.fernandez.arguedas0304@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bryan-fernández-arguedas-8b056339b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 </div>
