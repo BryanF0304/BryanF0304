@@ -34,7 +34,7 @@ I am continuously learning and interested in **software architecture**, **design
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)
-![Entity Framework (EF / EF Core)](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+
 
 
 #### 🔧 Tools
