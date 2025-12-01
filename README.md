@@ -76,13 +76,7 @@ I am continuously learning and interested in **software architecture**, **design
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BryanF0304&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=BryanF0304&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
  
 ---
 
