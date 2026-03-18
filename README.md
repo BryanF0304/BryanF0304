@@ -89,11 +89,6 @@ I am continuously learning and interested in **software architecture**, **design
 </div>
 
 
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
 
 Credit: [BryanF0304](https://github.com/Abdalrahman-Alhamod)
 
