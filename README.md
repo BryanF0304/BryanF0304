@@ -1,111 +1,148 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
 
-<h3 align="center">
-  Hi, I'm Bryan Fernández Arguedas
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<pre>
+___  ____ _   _ ____ _  _    ____
+|__] |__/  \_/  |__| |\ |    |___
+|__] |  \   |   |  | | \|    |
+</pre>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=440&height=45&lines=Software+Engineering+Student;Backend+%26+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Always+learning+new+things" />
-  </a>
-</p>
+**Software Engineering Student** &nbsp;·&nbsp; Costa Rica
 
----
-
-## About Me
-
-I'm a Software Engineering student at the **National University of Costa Rica (UNA)**, focused on backend development and software architecture.
-
-I enjoy building applications that are well-structured and maintainable, from database design through to the user interface. Most of my experience comes from academic projects where I've worked both individually and in teams, applying design patterns, layered architectures and version control workflows.
-
-I'm always learning something new, and I also tutor students in programming fundamentals.
-
----
-
-## 🎓 Academic Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)** | Sports prediction web app with match management, forecast registration and score calculation. Team project. | `Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Maven` `Bootstrap` |
-| **[Job Board](https://github.com/BryanF0304/P4_BolsaEmpleo)** | Job portal SPA with token-based authentication, role management and job posting features. Built as a team under a GitFlow workflow. | `React` `Spring Boot` `MySQL` `JWT` `REST` |
-
-### Desktop Development
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)** | Desktop application for managing a musical instrument inventory, users and loan records, with full CRUD functionality. | `C#` `.NET 8` `WPF` `MVVM` |
-
----
-
-## 🛠 Tech Stack
-
-#### Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-#### Frontend & Desktop
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-#### Databases
-
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BryanF0304&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanF0304&layout=compact&langs_count=8&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20&title_color=95ccff&hide=html,css)
+`Backend` &nbsp;·&nbsp; `Databases` &nbsp;·&nbsp; `Software Architecture`
 
 </div>
 
 ---
 
-## 🔗 Contact
+## 【 WHOAMI 】
+
+```
+┌─[bryan@github]─[~]
+└─$ whoami
+
+  NAME       Bryan Fernández Arguedas
+  ROLE       Software Engineering Student @ UNA, Costa Rica
+  FOCUS      Backend development · Software architecture
+  WORKING    Java · Spring Boot · SQL · React · C#
+  ALSO       Tutoring students in programming fundamentals
+  STATUS     Always learning something new
+```
+
+I build applications that are well-structured and maintainable, from database design
+through to the user interface. Most of my experience comes from academic projects,
+built both individually and in teams, applying design patterns, layered architectures
+and version control workflows.
+
+---
+
+## 【 PROJECTS 】
+
+<table>
+<tr><td>
+
+**[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)** — Sports prediction web app with match management, forecast registration and score calculation. Team project.
+
+<sub>`Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Maven`</sub>
+
+</td></tr>
+<tr><td>
+
+**[Job Board](https://github.com/BryanF0304/P4_BolsaEmpleo)** — Job portal SPA with token-based authentication, role management and job posting features. Built as a team under a GitFlow workflow.
+
+<sub>`React` `Spring Boot` `MySQL` `JWT` `REST`</sub>
+
+</td></tr>
+<tr><td>
+
+**[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)** — Desktop app for managing a musical instrument inventory, users and loan records, with full CRUD functionality.
+
+<sub>`C#` `.NET 8` `WPF` `MVVM`</sub>
+
+</td></tr>
+</table>
+
+<!-- Add a row here once you push these repos, using the real link.
+     A dead link hurts more than an extra row helps.
+     - Plan Paciente (Spring Boot + Spring Security)
+     - SQL Labs (T-SQL / PL/SQL)
+     - React Labs -->
+
+---
+
+## 【 TECH STACK 】
 
 <div align="center">
-  <a href="mailto:bryan.fernandez.arguedas0304@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazondynamodb&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0d1117)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=0d1117)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white&labelColor=0d1117)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white&labelColor=0d1117)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white&labelColor=0d1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0d1117)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white&labelColor=0d1117)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
+
 </div>
 
+---
+
+## 【 GITHUB STATS 】
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=BryanF0304&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&cache_seconds=86400" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanF0304&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css&cache_seconds=86400" />
+
+</div>
+
+---
+
+## 【 CONTACT 】
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bryan.fernandez.arguedas0304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/)
+
+<pre>
+.::::::--::...
+:::---=========--:..
+--:::---------:-:--=====---::.
+*+++++=-:::::--:....::::----==-
+*******=:::...:::....:::..::::-=-::.
+#***+***--:....:::--====-::....::=++=--.
+*****+=-:=---::...::=*+++++=--==-:..:-=+:                                          ...:::::::-::::-:
+#*=:.    .--==--.. .:=*+==+*******+==-:-+-.                                  ..::::::... .:::::::--:
+-.         .--==--::::-=+=+***+*+****+=-:==.              ..::.:::--:::-::::-::..:.......::-:====++-
+                 ..::--::-=++*:-=**++*+:+-=+:            :---=====+=====: ...=+==:...::..:=***+++=+-
+                      .--:-==+=..+**+**:.--==.            :---:......--=--==-==:...--::::+***#**+++-
+                        .==+--+- .+*++*-                                .-=--:::-=+**+++****#######=
+                        .==--=-.  -**+++.                            :----:--+*+++***#**+******+-::.
+                                   .. ..                            :-::::-++=++:.:==-=+****=-.
+                                                                     .--++===+*+--+==++===-.
+                                                                     .--=+--++:-=++=...
+                                                                     .--*=-++..==+=
+                                                                      ::+=-+:  ----
+                                                                      .:::::   ...
+</pre>
+
+<sub>Thanks for stopping by.</sub>
+
 </div>
