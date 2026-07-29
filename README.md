@@ -21,38 +21,44 @@ Estudiante de Ingeniería en Sistemas en la **Universidad Nacional de Costa Rica
 
 - **Backend en Java** — aplicaciones con Spring Boot, JPA/Hibernate, Spring Security y arquitectura MVC
 - **Bases de datos relacionales** — modelado ER, DDL, triggers, cursores, vistas y procedimientos almacenados en SQL Server y Oracle
-- **Programación de sistemas en C** — concurrencia, sincronización y comunicación entre procesos con POSIX
+- **Aplicaciones de escritorio y frontend** — WPF con C# bajo patrón MVVM, y SPAs con React
 
-También trabajo con **React** en el frontend y doy tutorías de fundamentos de programación.
+También doy tutorías de fundamentos de programación.
 
 ---
 
 ## 🎓 Proyectos académicos
 
+### EIF209 — Programación IV
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[Quiniela UNA](#)** | Aplicación web de quiniela deportiva: gestión de partidos, registro de pronósticos y cálculo de puntuación. | `Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Bootstrap` |
-| **[Bolsa de Empleo](#)** | SPA de portal de empleo con autenticación por token, control de roles y gestión de ofertas. Desarrollado en equipo bajo flujo GitFlow. | `React` `Spring Boot` `MySQL` `JWT` `REST` |
-| **[Plan Paciente](#)** | Sistema de gestión farmacéutica con autenticación, cifrado de contraseñas y arquitectura MVC completa. | `Java` `Spring Boot` `Spring Security` `BCrypt` `Thymeleaf` `MySQL` |
-| **[Laboratorios React](#)** | Componentes, manejo de estado, efectos, consumo de APIs y persistencia en el navegador. | `JavaScript` `React` `Hooks` `Fetch API` `localStorage` |
+| **[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)** | Aplicación web de quiniela deportiva: gestión de partidos, registro de pronósticos y cálculo de puntuación. Proyecto en equipo. | `Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Maven` `Bootstrap` |
+| **[Bolsa de Empleo](https://github.com/BryanF0304/P4_BolsaEmpleo)** | SPA de portal de empleo con autenticación por token, control de roles y gestión de ofertas. Desarrollado en equipo bajo flujo GitFlow. | `React` `Spring Boot` `MySQL` `JWT` `REST` |
 
+### Programación — Aplicaciones de escritorio
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[Laboratorios SQL](#)** | Traducción de modelos ER a relacional, scripts DDL/DML, triggers, cursores y vistas en dos motores distintos. | `T-SQL` `PL/SQL` `SQL Server` `Oracle` |
+| **[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)** | Aplicación de escritorio para gestión de inventario de instrumentos musicales, usuarios y registros de préstamo, con CRUD completo. | `C#` `.NET 8` `WPF` `MVVM` |
 
+<!-- Cuando subas los siguientes repos, agregá su fila aquí con el enlace real.
+     Mientras no existan, es mejor no listarlos: un enlace muerto resta más de lo que suma.
+     - Plan Paciente (Spring Boot + Spring Security)
+     - Laboratorios SQL (T-SQL / PL/SQL, EIF211)
+     - Laboratorios React (EIF209) -->
+
+---
 
 ## 🛠 Tecnologías
 
 #### Lenguajes
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Backend
 
@@ -60,13 +66,15 @@ También trabajo con **React** en el frontend y doy tutorías de fundamentos de 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-#### Frontend
+#### Frontend y escritorio
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 #### Bases de datos
 
@@ -79,6 +87,7 @@ También trabajo con **React** en el frontend y doy tutorías de fundamentos de 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
