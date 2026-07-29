@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Bryan Fernández Arguedas
+  Hi, I'm Bryan Fernández Arguedas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,44 +15,34 @@
 
 ---
 
-## Sobre mí
+## About Me
 
-Estudiante de Ingeniería en Sistemas en la **Universidad Nacional de Costa Rica (UNA)**. Mi trabajo se ha centrado en tres áreas:
+I'm a Software Engineering student at the **National University of Costa Rica (UNA)**, focused on backend development and software architecture.
 
-- **Backend en Java** — aplicaciones con Spring Boot, JPA/Hibernate, Spring Security y arquitectura MVC
-- **Bases de datos relacionales** — modelado ER, DDL, triggers, cursores, vistas y procedimientos almacenados en SQL Server y Oracle
-- **Aplicaciones de escritorio y frontend** — WPF con C# bajo patrón MVVM, y SPAs con React
+I enjoy building applications that are well-structured and maintainable, from database design through to the user interface. Most of my experience comes from academic projects where I've worked both individually and in teams, applying design patterns, layered architectures and version control workflows.
 
-También doy tutorías de fundamentos de programación.
+I'm always learning something new, and I also tutor students in programming fundamentals.
 
 ---
 
-## 🎓 Proyectos académicos
+## 🎓 Academic Projects
 
-### EIF209 — Programación IV
-
-| Proyecto | Descripción | Tecnologías |
+| Project | Description | Tech |
 |---|---|---|
-| **[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)** | Aplicación web de quiniela deportiva: gestión de partidos, registro de pronósticos y cálculo de puntuación. Proyecto en equipo. | `Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Maven` `Bootstrap` |
-| **[Bolsa de Empleo](https://github.com/BryanF0304/P4_BolsaEmpleo)** | SPA de portal de empleo con autenticación por token, control de roles y gestión de ofertas. Desarrollado en equipo bajo flujo GitFlow. | `React` `Spring Boot` `MySQL` `JWT` `REST` |
+| **[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)** | Sports prediction web app with match management, forecast registration and score calculation. Team project. | `Java` `Spring Boot` `Thymeleaf` `JPA/Hibernate` `SQL Server` `Maven` `Bootstrap` |
+| **[Job Board](https://github.com/BryanF0304/P4_BolsaEmpleo)** | Job portal SPA with token-based authentication, role management and job posting features. Built as a team under a GitFlow workflow. | `React` `Spring Boot` `MySQL` `JWT` `REST` |
 
-### Programación — Aplicaciones de escritorio
+### Desktop Development
 
-| Proyecto | Descripción | Tecnologías |
+| Project | Description | Tech |
 |---|---|---|
-| **[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)** | Aplicación de escritorio para gestión de inventario de instrumentos musicales, usuarios y registros de préstamo, con CRUD completo. | `C#` `.NET 8` `WPF` `MVVM` |
-
-<!-- Cuando subas los siguientes repos, agregá su fila aquí con el enlace real.
-     Mientras no existan, es mejor no listarlos: un enlace muerto resta más de lo que suma.
-     - Plan Paciente (Spring Boot + Spring Security)
-     - Laboratorios SQL (T-SQL / PL/SQL, EIF211)
-     - Laboratorios React (EIF209) -->
+| **[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)** | Desktop application for managing a musical instrument inventory, users and loan records, with full CRUD functionality. | `C#` `.NET 8` `WPF` `MVVM` |
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Tech Stack
 
-#### Lenguajes
+#### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -68,7 +58,7 @@ También doy tutorías de fundamentos de programación.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-#### Frontend y escritorio
+#### Frontend & Desktop
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
@@ -76,13 +66,13 @@ También doy tutorías de fundamentos de programación.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Bases de datos
+#### Databases
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Herramientas
+#### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -93,19 +83,19 @@ También doy tutorías de fundamentos de programación.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BryanF0304&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanF0304&layout=compact&langs_count=8&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20&title_color=95ccff&hide=html,css)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanF0304&layout=compact&langs_count=8&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20&title_color=95ccff&hide=html,css)
 
 </div>
 
 ---
 
-## 🔗 Contacto
+## 🔗 Contact
 
 <div align="center">
   <a href="mailto:bryan.fernandez.arguedas0304@gmail.com">
