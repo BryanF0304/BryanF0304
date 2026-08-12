@@ -1,84 +1,76 @@
-<img src="./assets/banner.svg" alt="Bryan Fernández — Backend Development · Software Architecture" width="100%">
+<div data-importer="image" align="center">
+  <img data-importer="image" height="206" src="./assets/banner.jpg" />
+</div>
 
-![Costa Rica](https://img.shields.io/badge/Costa_Rica-0A0A0A?style=flat-square&labelColor=0A0A0A&color=0A0A0A)
-![Backend](https://img.shields.io/badge/Backend-0A0A0A?style=flat-square&labelColor=0A0A0A&color=0A0A0A)
-![Open to internships](https://img.shields.io/badge/Open_to_internships-3FB950?style=flat-square&labelColor=0A0A0A&color=3FB950)
+###
 
----
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&descSize=20&descAlign=50&descAlignY=50&color=000000"  />
+</div>
 
-### whoami
+###
 
-```
-NAME      Bryan Fernández Arguedas
-ROLE      Software Engineering Student @ UNA, Costa Rica
-FOCUS     Backend development · Software architecture
-WORKING   Java · Spring Boot · SQL · React · C#
-ALSO      Tutoring students in programming fundamentals
-```
+<h2 data-importer="text" align="left">Hola, soy Bryan 👋</h2>
 
-I build applications that are well-structured and maintainable, from database design through to
-the interface. Most of my experience comes from academic projects, built individually and in
-teams, applying design patterns, layered architectures and version control workflows.
+<p align="left">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software</p>
 
----
+###
 
-### selected work
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/BryanF0304/BryanF0304/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/BryanF0304/BryanF0304/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-<table>
-<tr><td width="33%" valign="top">
+###
 
-**[Quiniela UNA](https://github.com/BryanF0304/ProyectoBD_Quiniela)**
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="30" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" height="30" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" height="30" alt="react logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" height="30" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" height="30" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF" height="30" alt="csharp logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" height="30" alt="java logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" height="30" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" height="30" alt="cplusplus logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" height="30" alt="git logo"  />
+</div>
 
-Sports prediction web app with match management, forecast registration and score calculation. Team project.
+###
 
-`Java` `Spring Boot` `Thymeleaf` `JPA` `SQL Server`
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-</td><td width="33%" valign="top">
+###
 
-**[Job Board](https://github.com/BryanF0304/P4_BolsaEmpleo)**
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@BryanF0304/2" alt="Medium post 3"  />
+  </a>
+</div>
 
-Job portal SPA with token-based authentication, role management and job posting. Team project under GitFlow.
+###
 
-`React` `Spring Boot` `MySQL` `JWT` `REST`
+<br clear="both">
 
-</td><td width="33%" valign="top">
+<img data-importer="snake" src="https://raw.githubusercontent.com/BryanF0304/BryanF0304/snake-output/snake.svg" alt="Snake animation" />
 
-**[Inventory Manager](https://github.com/BryanF0304/WPF_CRUD_InventoryManager)**
-
-Desktop app for managing a musical instrument inventory, users and loan records, with full CRUD.
-
-`C#` `.NET 8` `WPF` `MVVM`
-
-</td></tr>
-</table>
-
----
-
-### stack
-
-```
-LANGUAGES     Java · C# · JavaScript · SQL · C++
-BACKEND       Spring Boot · Spring Security · Hibernate · JWT · .NET 8
-DATABASES     SQL Server · MySQL · Oracle
-FRONTEND      React · Thymeleaf · Bootstrap
-TOOLING       Git · Maven · Postman
-```
-
----
-
-### now
-
-```
-$ cat now.txt
-
-building   → refining backend projects, focusing on clean layered architecture
-learning   → deepening Spring Security & system design fundamentals
-open to    → internship opportunities in backend / Java development
-```
-
----
-
-### contact
-
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=3FB950)](mailto:bryan.fernandez.arguedas0304@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=3FB950)](https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/)
+###
