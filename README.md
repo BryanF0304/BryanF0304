@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hola, soy Bryan 👋</h2>
+<h2 data-importer="text" align="left">Hola, soy Bryan Fernández Arguedas 👋</h2>
 
 <p align="left">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software ·</p>
 
