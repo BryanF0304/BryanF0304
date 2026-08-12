@@ -1,11 +1,11 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="206" src="./assets/banner.jpg" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&descSize=20&descAlign=50&descAlignY=50&color=000000"  />
 </div>
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&descSize=20&descAlign=50&descAlignY=50&color=000000"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="206" src="./assets/banner.jpg" />
 </div>
 
 ###
