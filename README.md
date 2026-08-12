@@ -12,13 +12,19 @@
 
 <h2 data-importer="text" align="left">Hola, soy Bryan 👋</h2>
 
-<p align="left">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software</p>
+<p align="left">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software ·</p>
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/BryanF0304/BryanF0304/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/BryanF0304/BryanF0304/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="trophies" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanF0304&theme=flat&no-frame=true&margin-w=4&margin-h=4&column=-1" alt="GitHub trophies"  />
 </div>
 
 ###
