@@ -1,0 +1,50 @@
+name: Generate profile stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day at 03:00 UTC
+  workflow_dispatch:        # adds a manual "Run workflow" button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download stats.svg
+        run: |
+          curl -sSL "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" -o /tmp/stats.svg
+
+      - name: Download languages.svg
+        run: |
+          curl -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" -o /tmp/languages.svg
+
+      - name: Publish stats.svg to stats-output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin stats-output 2>/dev/null || true
+          git checkout stats-output 2>/dev/null || git checkout --orphan stats-output
+          git rm -rf . >/dev/null 2>&1 || true
+          cp /tmp/stats.svg ./stats.svg
+          git add stats.svg
+          git commit -m "update stats.svg" || echo "nothing to commit"
+          git push origin stats-output --force
+
+      - name: Publish languages.svg to languages-output
+        run: |
+          git checkout main
+          git fetch origin languages-output 2>/dev/null || true
+          git checkout languages-output 2>/dev/null || git checkout --orphan languages-output
+          git rm -rf . >/dev/null 2>&1 || true
+          cp /tmp/languages.svg ./languages.svg
+          git add languages.svg
+          git commit -m "update languages.svg" || echo "nothing to commit"
+          git push origin languages-output --force
