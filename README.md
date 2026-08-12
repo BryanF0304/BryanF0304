@@ -53,8 +53,8 @@
 
 <div data-importer="socials" align="left">
   <a href="https://discord.com/users/bfdez"><img src="https://img.shields.io/static/v1?message=bfdez&logo=discord&label=Discord&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord"  /></a>
-  <a href="mailto:bryan.fernandez.arguedas0304@gmail.com"><img src="https://img.shields.io/static/v1?message=&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail"  /></a>
-  <a href="https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/"><img src="https://img.shields.io/static/v1?message=&logo=linkedin&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin"  /></a>
+  <a href="mailto:bryan.fernandez.arguedas0304@gmail.com"><img src="https://img.shields.io/static/v1?message=%20&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail"  /></a>
+  <a href="https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/"><img src="https://img.shields.io/static/v1?message=%20&logo=linkedin&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin"  /></a>
 </div>
 
 ###
