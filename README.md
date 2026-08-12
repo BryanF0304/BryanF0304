@@ -6,7 +6,7 @@
 
 <h2 data-importer="text" align="center">Hola, soy Bryan 👋</h2>
 
-<p align="center">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software · Abierto a pasantías</p>
+<p align="center">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software ·</p>
 
 ###
 
