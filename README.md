@@ -1,18 +1,12 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="206" src="./assets/banner.png" />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&descSize=20&descAlign=50&descAlignY=50&color=000000"  />
+  <img data-importer="image" height="206" src="./assets/banner.jpg" />
 </div>
 
 ###
 
 <h2 data-importer="text" align="center">Hola, soy Bryan 👋</h2>
 
-<p align="center">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software ·</p>
+<p align="center">Estudiante de Ingeniería en Sistemas (UNA, Costa Rica) · Backend development & arquitectura de software · Abierto a pasantías</p>
 
 ###
 
@@ -59,8 +53,8 @@
 
 <div data-importer="socials" align="left">
   <a href="https://discord.com/users/bfdez"><img src="https://img.shields.io/static/v1?message=bfdez&logo=discord&label=Discord&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord"  /></a>
-  <a href="mailto:bryan.fernandez.arguedas0304@gmail.com"><img src="https://img.shields.io/static/v1?&logo=gmail&label=Gmail&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail"  /></a>
-  <a href="https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/"><img src="https://img.shields.io/static/v1?&logo=linkedin&label=LinkedIn&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin"  /></a>
+  <a href="mailto:bryan.fernandez.arguedas0304@gmail.com"><img src="https://img.shields.io/static/v1?message=&logo=gmail&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="gmail"  /></a>
+  <a href="https://www.linkedin.com/in/bryan-fern%C3%A1ndez-arguedas-8b056339b/"><img src="https://img.shields.io/static/v1?message=&logo=linkedin&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="linkedin"  /></a>
 </div>
 
 ###
